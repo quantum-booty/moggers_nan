@@ -21,6 +21,7 @@ pub mod moggers {
         Gae,
         Moggranny,
         Mognanny,
+        ACox,
     }
 }
 
